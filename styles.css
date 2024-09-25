@@ -160,6 +160,13 @@ margin-top: 20px;
     position: fixed;
 }
 
+
+  .body{
+    border: 0px solid; 
+    
+ 
+  }
+  
 .dropdown_menu{
     position: absolute;
     width: 100vw;
