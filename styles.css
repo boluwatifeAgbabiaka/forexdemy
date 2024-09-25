@@ -223,7 +223,9 @@ h2{
     justify-content: center;
     
 }
-
+.body{
+border:0px;
+}
 .img{
     width: 500px;
     margin-bottom: 40px;
